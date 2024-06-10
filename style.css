@@ -36,23 +36,15 @@ body {
 position: absolute;
   right: 350px;
   top: 1000px;
-  width: 800px;
+  width: 400px;
 }
 #pollutionTriangleImage {
 position: absolute;
   right: 350px;
   top: 2000px;
-  width: 800px;
+  width: 400px;
 }
 
 #wholeParagraph {
   margin-left: 100px;
-}
-
-#pollutionTriangleImage:hover {
-  transform: scale(1.5);
-}
-
-#costImage:hover {
-  transform: scale(2);
 }
